@@ -2,5 +2,5 @@
 ColorScheme=claudemods-darkblue
 
 [General]
-Name=claudemods-lightblue
+Name=claudemods-darkblue
 Parent=FALLBACK/
